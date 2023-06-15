@@ -19,4 +19,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
   
-  ![Snake animation](https://github.com/juhsantos)
+  ![Snake animation]()
+  ![snake gif](https://github.com/https://github.com/juhsantos/juhsantos/blob/output/github-contribution-grid-snake.svg)
