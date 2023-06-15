@@ -1,4 +1,4 @@
-package main
+[package main
 
 import (
 	"fmt"
@@ -24,3 +24,4 @@ func GetBio() Bio {
 	}
 }
 
+](https://github-readme-stats.vercel.app/api?username={juhsantos}&theme=blue-green)
