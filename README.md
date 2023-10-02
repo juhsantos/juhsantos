@@ -1,5 +1,7 @@
 ## Olá ! Eu sou Onildo junior
-<h2>Front - End Developer<h2/>
+<h3>Front - End Developer<h3/>
+
+<p>Apaixonado por desenvolvimento front-end e me aventurando em backend</p>
 
 
 
